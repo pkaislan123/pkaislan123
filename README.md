@@ -12,6 +12,7 @@ assim como universo em que estamos, as tecnologias que circundam as ciências da
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkaislan123&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  <div  align="center">
   <div style="display: inline_block"><br>
   <img align="center" alt="Aislan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Aislan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,8 +21,6 @@ assim como universo em que estamos, as tecnologias que circundam as ciências da
   <img align="center" alt="Aislan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aislan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Aislan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-      <img align="center" alt="Aislan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-    
-    
+  <img align="center" alt="Aislan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+</div>
 </div>
