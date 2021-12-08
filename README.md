@@ -40,6 +40,6 @@ assim como universo em que estamos, as tecnologias que circundam as ciências da
 </div>
 
   <p/>
-  <div  align="center">
-  ![Snake animation](https://github.com/pkaislan123/pkaislan123//blob/output/github-contribution-grid-snake.svg)
-    </div>
+  
+  ![Snake animation](https://github.com/pkaislan123/pkaislan123/blob/output/github-contribution-grid-snake.svg)
+   
