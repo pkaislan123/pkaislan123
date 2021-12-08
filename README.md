@@ -32,6 +32,8 @@ assim como universo em que estamos, as tecnologias que circundam as ciências da
 </div>
   
    
+  
+  
   <div  align="center">
 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
