@@ -6,6 +6,9 @@ assim como universo em que estamos, as tecnologias que circundam as ciências da
 - 📫 Caso queira entrar em contato comigo, mandei em email para comprasaislan@gmail.com.
 
 
+
+
+
 <div align="center">
   <a href="https://github.com/pkaislan123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pkaislan123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,6 +24,13 @@ assim como universo em que estamos, as tecnologias que circundam as ciências da
   <img align="center" alt="Aislan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aislan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Aislan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Aislan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Aislan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img align="center" alt="Aislan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Aislan-Csharp" height="30" width="40" src=" https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/256.png">
+  <img align="center" alt="Aislan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+
+   
+    
+    
 </div>
 </div>
