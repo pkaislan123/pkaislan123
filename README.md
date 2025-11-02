@@ -50,7 +50,7 @@ Forte capacidade de atuar de forma independente, liderando todas as etapas — c
   
   <div  align="center">
    <a href = "mailto:comprasaislan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/aislan-silva-costa-10ba1b149" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="www.linkedin.com/in/aislan-silva-costa-660814341" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
   <p/>
