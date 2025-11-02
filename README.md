@@ -1,12 +1,26 @@
-- 👋 Olá, sou Aislan Silva Costa, resido atualmente em Fortaleza/CE - Brasil
-- 👀 Minha visão sobre a computação é que ela é uma das áreas das ciências exatas mais humilde que existe. Na caminhada da jornada do aprendizado contamos com vários rostos desconhecidos que tornaram nosso caminho mais simples e objetivo.
-- 🌱 Atualmente estou aprendendo o desenvolvimento de Web Sites e Apps Mobile com tecnologias como React Js e React Native. Mas o programador mais completo do mundo, sabe tão pouco, pois
-assim como universo em que estamos, as tecnologias que circundam as ciências da computação não param de se expandir.
-- 💞️ Com meus conhecimentos em IOT desejo colaborar com projetos de automação com nosso camarada de sempre, o Arduino e seus primos, o PIC, NodeMCU, Raspberry, Orange PI, enfim, a familia é grande
-- 📫 Caso queira entrar em contato comigo, mande um email diretamente para comprasaislan@gmail.com ou use um dos links direcionadores para minhas redes sociais.
+ 💼 Sobre
 
+Sou Aislan Silva Costa, desenvolvedor Full Stack com foco em sistemas embarcados, residente em Fortaleza – CE, Brasil.
+Acredito que a computação é uma das áreas mais humildes das ciências exatas — um campo onde o aprendizado é constantemente moldado por mentes brilhantes, muitas vezes anônimas, que tornam o caminho mais claro e acessível para todos nós.
 
+Atualmente, atuo com React.js e React Native, desenvolvendo soluções web e mobile modernas. Além disso, tenho sólida experiência em hardware e eletrônica aplicada, criando sistemas embarcados completos com microcontroladores como Arduino, PIC, STM32, Raspberry Pi, ESP32 e Orange Pi.
 
+Desenvolvo software embarcado em C++ e Python, bem como sistemas web completos (frontend, backend, banco de dados e infraestrutura VPS) para comunicação e gerenciamento desses dispositivos.
+Essa combinação de habilidades me permite conduzir projetos do zero até o produto final, integrando hardware, firmware e software em uma única solução.
+
+Minha visão é clara: o programador mais completo do mundo ainda sabe pouco — porque, assim como o universo, a tecnologia continua se expandindo todos os dias.
+
+🧩 Resumo da Experiência
+
+Análise e Desenvolvimento de Sistemas com mais de 3 anos de experiência em soluções desktop, web e embarcadas.
+
+Experiência prática com React.js, React Native, Spring Boot, MySQL e infraestrutura VPS (Linux/Debian).
+
+Desenvolvimento de sistemas embarcados com Arduino, Raspberry Pi, ESP32, PIC e STM32.
+
+Criação de projetos IoT e automação integrando hardware, software e conectividade.
+
+Forte capacidade de atuar de forma independente, liderando todas as etapas — concepção, desenvolvimento, integração e entrega.
 
 
 <div align="center">
