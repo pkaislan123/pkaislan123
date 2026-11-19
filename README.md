@@ -62,6 +62,8 @@ Esse conjunto multidisciplinar de habilidades me permite entregar soluções de 
 </div>
 
   <p/>
-  
-  ![Snake animation](https://github.com/pkaislan123/pkaislan123/blob/output/github-contribution-grid-snake.svg)
+   
+  <div align="center">
+   <img src="https://raw.githubusercontent.com/pkaislan123/pkaislan123/main/assets/embedded-bus-anim.svg" alt="Animação de barramento de hardware embarcado e automação" width="100%" />
+ </div>
    
