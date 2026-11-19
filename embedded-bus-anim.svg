@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 210" width="100%" height="210" role="img" aria-label="Animação de barramento de hardware embarcado e automação">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; rx: 12; }
+      .panel { fill: #161b22; stroke: #30363d; stroke-width: 1.2; rx: 8; }
+      .mcu { fill: #1f242d; stroke: #58a6ff; stroke-width: 1.6; rx: 8; }
+      .title { fill: #e6edf3; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; font-weight: 700; }
+      .sub { fill: #8b949e; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 10.5px; }
+      .bus { stroke: #30363d; stroke-width: 3; fill: none; stroke-linecap: round; }
+      .trace-active { stroke: #58a6ff; stroke-width: 2.5; fill: none; stroke-dasharray: 8 10; animation: flow 1.4s linear infinite; }
+      .trace-io { stroke: #3fb950; stroke-width: 2.5; fill: none; stroke-dasharray: 6 12; animation: flowRev 1.8s linear infinite; }
+      .trace-pwr { stroke: #f78166; stroke-width: 2.5; fill: none; stroke-dasharray: 7 11; animation: flow 1.6s linear infinite; }
+      .led-green { fill: #3fb950; animation: blinkGreen 1.2s ease-in-out infinite; }
+      .led-blue { fill: #58a6ff; animation: blinkBlue 0.9s ease-in-out infinite; }
+      .led-amber { fill: #d29922; animation: relayCycle 3.2s steps(1, end) infinite; }
+
+      @keyframes flow {
+        to { stroke-dashoffset: -36; }
+      }
+      @keyframes flowRev {
+        to { stroke-dashoffset: 36; }
+      }
+      @keyframes blinkGreen {
+        0%, 100% { opacity: 0.35; }
+        50% { opacity: 1; }
+      }
+      @keyframes blinkBlue {
+        0%, 100% { opacity: 0.25; }
+        50% { opacity: 1; }
+      }
+      @keyframes relayCycle {
+        0%, 49% { fill: #30363d; }
+        50%, 100% { fill: #f78166; }
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" x="1" y="1" width="838" height="208" />
+
+  <!-- Cabeçalho -->
+  <text class="title" x="24" y="28">EDGE AUTOMATION & EMBEDDED BUS</text>
+  <text class="sub" x="255" y="28">// UART · I2C · SPI · RS485 · CAN</text>
+  <circle class="led-green" cx="790" cy="24" r="5" />
+  <text class="sub" x="802" y="28">ONLINE</text>
+
+  <!-- Bloco Esquerdo: Sensores & Entradas -->
+  <rect class="panel" x="24" y="52" width="195" height="132" />
+  <text class="title" x="38" y="75">SENSORS & I/O</text>
+  <text class="sub" x="38" y="94">• Digital / Analog In</text>
+  <text class="sub" x="38" y="112">• Telemetry / Bus Rx</text>
+  <text class="sub" x="38" y="130">• Isolation & TVS</text>
+  <circle class="led-green" cx="44" cy="158" r="4.5" />
+  <text class="sub" x="56" y="162">RX STREAM</text>
+
+  <!-- Trilhas Esquerda -> Centro -->
+  <path class="bus" d="M219 92 L310 92" />
+  <path class="trace-io" d="M219 92 L310 92" />
+  <path class="bus" d="M219 138 L310 138" />
+  <path class="trace-active" d="M219 138 L310 138" />
+
+  <!-- Bloco Central: MCU / Edge Node -->
+  <rect class="mcu" x="310" y="46" width="220" height="144" />
+  <text class="title" x="328" y="72">MCU / EDGE CORE</text>
+  <text class="sub" x="328" y="91">ESP32 · STM32 · Linux SBC</text>
+  <text class="sub" x="328" y="112">C++ / Python Firmware</text>
+  <text class="sub" x="328" y="130">State Machine & Watchdog</text>
+
+  <!-- Pinos decorativos -->
+  <rect fill="#8b949e" x="330" y="152" width="12" height="18" rx="2" />
+  <rect fill="#8b949e" x="350" y="152" width="12" height="18" rx="2" />
+  <rect fill="#8b949e" x="370" y="152" width="12" height="18" rx="2" />
+  <rect fill="#8b949e" x="390" y="152" width="12" height="18" rx="2" />
+  <circle class="led-blue" cx="496" cy="161" r="5" />
+  <text class="sub" x="452" y="165">CPU</text>
+
+  <!-- Trilhas Centro -> Direita -->
+  <path class="bus" d="M530 92 L621 92" />
+  <path class="trace-active" d="M530 92 L621 92" />
+  <path class="bus" d="M530 138 L621 138" />
+  <path class="trace-pwr" d="M530 138 L621 138" />
+
+  <!-- Bloco Direito: Atuadores, Relés & Cloud/SCADA -->
+  <rect class="panel" x="621" y="52" width="195" height="132" />
+  <text class="title" x="635" y="75">ACTUATORS & LINK</text>
+  <text class="sub" x="635" y="94">• Relays / PGM / Gate</text>
+  <text class="sub" x="635" y="112">• Industrial / SCADA</text>
+  <text class="sub" x="635" y="130">• API / MQTT / Edge</text>
+  <circle class="led-amber" cx="641" cy="158" r="4.5" />
+  <text class="sub" x="653" y="162">OUT / RELAY</text>
+</svg>
