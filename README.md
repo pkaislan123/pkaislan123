@@ -64,6 +64,6 @@ Esse conjunto multidisciplinar de habilidades me permite entregar soluções de 
   <p/>
    
   <div align="center">
-   <img src="https://raw.githubusercontent.com/pkaislan123/pkaislan123/main/assets/embedded-bus-anim.svg" alt="Animação de barramento de hardware embarcado e automação" width="100%" />
+   <img src="https://raw.githubusercontent.com/pkaislan123/pkaislan123/main/embedded-bus-anim.svg" alt="Animação de barramento de hardware embarcado e automação" width="100%" />
  </div>
    
